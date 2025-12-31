@@ -30,8 +30,6 @@
   <a href="mailto:mochabdiefirdausridwan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white  "/></a>
 </p>
 
----
-
  <!-- ### 🧰 Tech Stack
 
 <p>
@@ -41,12 +39,6 @@
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white  "/>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white  "/>
 </p> --> 
-
----
-
-### 📊 Languages Used in My Projects
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=invectus-dev&layout=compact&theme=default&hide_border=false  )
 
 ---
 
