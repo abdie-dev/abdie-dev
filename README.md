@@ -1,8 +1,19 @@
-### Hello there 👋
+# 👋 Halo, Saya MOCH ABDIE FIRDAUS RIDWAN
 
-#### A Laravel Builder by day ☼ and a Python Engineer by night ☾
+**Laravel Developer** di siang hari, **Python Engineer** di malam hari.
 
-- ⚙️ I use daily: "`.php`, `.blade`, `.html`, `.css`, `.py`, `.json`"
-- 🌍 `I'm mostly active within the` "**Discord, Laravel Community, Python Community**"
-- 💬 `I'm interested on` "**design**, **branding**, **laravel**, **development**, **design thinking**, **python engineering**, **AI/ML**"
-- 🎗️ Check my project's here `https://google.com`
+---
+
+### 🛠 Teknologi Sehari-hari
+- Backend: `PHP (Laravel)`, `Python`
+- Frontend: `HTML`, `CSS`, `Blade`
+- Data & Konfigurasi: `JSON`
+
+### 🌐 Komunitas
+Aktif di **Discord**, **Laravel Community**, dan **Python Community**.
+
+### 💡 Minat
+Desain • Branding • Pengembangan Web • Design Thinking • AI/ML
+
+### 🔗 Proyek
+Lihat repositori saya → [google.com](https://google.com)
