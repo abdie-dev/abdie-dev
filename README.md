@@ -6,3 +6,4 @@
 - 🌍 I'm mostly active within the **Discord, Laravel Community, Python Community**
 - 💅 Designed : `nothing here ...`
 - 💬 `ping` me about **design**, **branding**, **laravel**, **development**, **design thinking**, **python engineering**, **AI/ML**
+  \asdas\
