@@ -91,10 +91,10 @@ class BiwwDev:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=biww-dev&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biww-dev&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=abdie-dev&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdie-dev&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" />
 
-<img width="420" src="https://streak-stats.demolab.com?user=biww-dev&theme=tokyonight&hide_border=true&background=1e1e2e&ring=cba6f7&fire=89b4fa&currStreakLabel=cdd6f4&sideLabels=cdd6f4&dates=6c7086" />
+<img width="420" src="https://streak-stats.demolab.com?user=abdie-dev&theme=tokyonight&hide_border=true&background=1e1e2e&ring=cba6f7&fire=89b4fa&currStreakLabel=cdd6f4&sideLabels=cdd6f4&dates=6c7086" />
 
 </div>
 
@@ -105,7 +105,7 @@ class BiwwDev:
 ```bash
 #!/bin/bash
 echo "discord  →  BiwwDev"
-echo "github   →  github.com/biww-dev"
+echo "github   →  github.com/abdie-dev"
 echo "location →  somewhere in Indonesia, probably in the terminal"
 ```
 
@@ -113,7 +113,7 @@ echo "location →  somewhere in Indonesia, probably in the terminal"
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=biww-dev&style=flat-square&color=6c7086&label=profile+views" />
+<img src="https://komarev.com/ghpvc/?username=abdie-dev&style=flat-square&color=6c7086&label=profile+views" />
 
 <br/><br/>
 
