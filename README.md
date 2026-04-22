@@ -1,84 +1,127 @@
 ```markdown
-# hey, i'm BiwwDev 👾
+<div align="center">
 
-> masih belajar, masih penasaran, masih nge-break hal-hal sampai paham cara kerjanya.
+```ascii
+██████╗ ██╗██╗    ██╗██╗    ██╗██████╗ ███████╗██╗   ██╗
+██╔══██╗██║██║    ██║██║    ██║██╔══██╗██╔════╝██║   ██║
+██████╔╝██║██║ █╗ ██║██║ █╗ ██║██║  ██║█████╗  ██║   ██║
+██╔══██╗██║██║███╗██║██║███╗██║██║  ██║██╔══╝  ╚██╗ ██╔╝
+██████╔╝██║╚███╔███╔╝╚███╔███╔╝██████╔╝███████╗ ╚████╔╝ 
+╚═════╝ ╚═╝ ╚══╝╚══╝  ╚══╝╚══╝ ╚═════╝ ╚══════╝  ╚═══╝  
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=hey%2C+i'm+BiwwDev+%F0%9F%91%BE;student+%2F+builder+%2F+breaker;always+in+the+terminal;it+works+on+my+machine." alt="Typing SVG" />
+
+<br/>
+
+[![](https://img.shields.io/badge/Moch%20Abdie%20Firdaus%20Ridwan-1e1e2e?style=for-the-badge&logo=ghost&logoColor=cba6f7)]()
+[![](https://img.shields.io/badge/Indonesia%20🇮🇩-1e1e2e?style=for-the-badge&logo=google-maps&logoColor=89b4fa)]()
+[![](https://img.shields.io/badge/Student-1e1e2e?style=for-the-badge&logo=academia&logoColor=a6e3a1)]()
+
+</div>
 
 ---
 
-## whoami
+<img align="right" width="360" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+### `$ whoami`
+
+```python
+class BiwwDev:
+    name     = "Moch Abdie Firdaus Ridwan"
+    alias    = "BiwwDev"
+    location = "Indonesia 🇮🇩"
+    status   = "student • builder • breaker"
+    os       = "Arch Linux + Hyprland"
+    editor   = "Neovim (obviously)"
+    vibe     = ["minimal", "dark", "quiet", "terminal"]
+
+    def say_hi(self):
+        print("masih belajar, masih penasaran.")
+```
+
+<br/><br/><br/>
+
+---
+
+### 🧠 `interests.txt`
+
+```
+▸ Python          ························  scripting, bots, AI/ML
+▸ Local AI        ························  Ollama, RAG, FastAPI
+▸ Linux & Ricing  ························  Arch, Hyprland, dotfiles
+▸ Security        ························  bug bounty, recon, breaking stuff
+▸ Trading Bot     ························  MQL5, MetaTrader 5 EA
+▸ Game Dev        ························  Roblox / Lua (iseng-iseng)
+```
+
+---
+
+### 📺 `currently.log`
+
+```diff
++ setup dotfiles dari nol (untuk kesekian kalinya)
++ eksperimen local LLM pake Ollama
++ belajar FastAPI buat backend AI
++ nyoba-nyoba bug bounty hal kecil
++ nulis EA di MetaTrader 5
+- tidur cukup
+- skill issue
+```
+
+---
+
+### ⚙️ `stack.json`
+
+```json
+{
+  "editor"    : "neovim",
+  "shell"     : "zsh",
+  "terminal"  : "kitty",
+  "wm"        : "hyprland",
+  "os"        : "arch linux",
+  "theme"     : "catppuccin mocha",
+  "font"      : "JetBrains Mono"
+}
+```
+
+---
+
+### 📊 stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=biww-dev&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biww-dev&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" />
+
+<img width="420" src="https://streak-stats.demolab.com?user=biww-dev&theme=tokyonight&hide_border=true&background=1e1e2e&ring=cba6f7&fire=89b4fa&currStreakLabel=cdd6f4&sideLabels=cdd6f4&dates=6c7086" />
+
+</div>
+
+---
+
+### 🌐 `find_me.sh`
 
 ```bash
-$ cat about.txt
-
-name     : Moch Abdie Firdaus Ridwan
-alias    : BiwwDev
-location : Indonesia 🇮🇩
-status   : student by day, terminal enjoyer by night
-vibe     : minimal, dark, quiet
+#!/bin/bash
+echo "discord  →  BiwwDev"
+echo "github   →  github.com/biww-dev"
+echo "location →  somewhere in Indonesia, probably in the terminal"
 ```
 
 ---
 
-## 🧠 lagi tertarik sama
+<div align="center">
 
-hal-hal yang bikin gue duduk berjam-jam tanpa sadar waktu:
+<img src="https://komarev.com/ghpvc/?username=biww-dev&style=flat-square&color=6c7086&label=profile+views" />
 
-- **Python** — nulis script, bikin bot, explore AI/ML
-- **Local AI** — bangun sistem AI sendiri di mesin sendiri, no cloud needed
-- **Linux & Ricing** — Arch + Hyprland, nge-tweak sampe sempurna
-- **Security** — bug bounty, recon, ngerti cara sistem bisa dibobol
-- **Trading Automation** — bikin EA di MQL5, biar duit kerja sendiri (haha)
-- **Game Dev** — sesekali ngulik Roblox / Lua iseng-iseng
-
----
-
-## 🛠 tools yang sering kelihatan di layar gue
+<br/><br/>
 
 ```
-editor    →  neovim (btw i use arch)
-shell     →  zsh
-terminal  →  kitty / alacritty
-wm        →  hyprland
-os        →  arch linux
-theme     →  catppuccin mocha (always)
+╔════════════════════════════════════╗
+║  "it works on my machine."  — me  ║
+╚════════════════════════════════════╝
 ```
 
----
-
-## 📅 lately
-
-- 🔧 setup ulang dotfiles dari nol (lagi)
-- 🤖 eksperimen sama local LLM pake Ollama
-- 📡 belajar FastAPI buat backend AI
-- 🐛 nyoba-nyoba bug bounty hal kecil-kecilan
-- 📈 nulis EA di MetaTrader 5
-
----
-
-## 📊 github activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=1e1e2e&ring=cba6f7&fire=89b4fa&currStreakLabel=cdd6f4)
-
----
-
-## 🌐 find me
-
-> gue ga terlalu aktif di sosmed, tapi ada
-
-- Discord : `BiwwDev`
-- GitHub  : [github.com/YOUR_USERNAME](https://github.com)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6c7086&label=profile+views" />
-</p>
-
-<p align="center">
-  <i>"it works on my machine."</i>
-</p>
+</div>
 ```
