@@ -44,12 +44,12 @@
 
 ```
 .
-├── python/           # scripting, bots, automation
+├── python/           # scripting, bots, automation, artifical intelegents
 ├── local-ai/         # ollama, rag, fastapi — no cloud
 ├── linux-ricing/     # arch, hyprland, dotfiles forever
 ├── security/         # bug bounty, recon, breaking stuff
 ├── trading-bot/      # mql5, metatrader5 ea
-└── game-dev/         # roblox / lua (occasionally)
+└── game-dev/         # unity, ue5, roblox / lua (occasionally)
 ```
 
 ---
@@ -145,4 +145,3 @@ pgp      →  ask nicely
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,50:1e1e2e,100:0d0d0d&height=120&section=footer&animation=fadeIn" />
 
 </div>
-```
