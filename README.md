@@ -1,127 +1,148 @@
-
 <div align="center">
 
-```ascii
-██████╗ ██╗██╗    ██╗██╗    ██╗██████╗ ███████╗██╗   ██╗
-██╔══██╗██║██║    ██║██║    ██║██╔══██╗██╔════╝██║   ██║
-██████╔╝██║██║ █╗ ██║██║ █╗ ██║██║  ██║█████╗  ██║   ██║
-██╔══██╗██║██║███╗██║██║███╗██║██║  ██║██╔══╝  ╚██╗ ██╔╝
-██████╔╝██║╚███╔███╔╝╚███╔███╔╝██████╔╝███████╗ ╚████╔╝ 
-╚═════╝ ╚═╝ ╚══╝╚══╝  ╚══╝╚══╝ ╚═════╝ ╚══════╝  ╚═══╝  
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=hey%2C+i'm+BiwwDev+%F0%9F%91%BE;student+%2F+builder+%2F+breaker;always+in+the+terminal;it+works+on+my+machine." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1e1e2e,100:cba6f7&height=220&section=header&text=%5BREDACTED%5D&fontSize=65&fontColor=cba6f7&fontAlignY=40&desc=unauthorized%20access%20detected&descAlignY=60&descColor=6c7086&animation=fadeIn" />
 
 <br/>
 
-[![](https://img.shields.io/badge/Moch%20Abdie%20Firdaus%20Ridwan-1e1e2e?style=for-the-badge&logo=ghost&logoColor=cba6f7)]()
-[![](https://img.shields.io/badge/Indonesia%20🇮🇩-1e1e2e?style=for-the-badge&logo=google-maps&logoColor=89b4fa)]()
-[![](https://img.shields.io/badge/Student-1e1e2e?style=for-the-badge&logo=academia&logoColor=a6e3a1)]()
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=600&color=CBA6F7&center=true&vCenter=true&width=650&height=45&lines=identity%3A+unknown.;location%3A+classified.;motive%3A+curiosity.;status%3A+always+online.;occupation%3A+breaking+things+to+understand+them." />
+
+<br/>
+
+[![](https://img.shields.io/badge/identity-REDACTED-1e1e2e?style=for-the-badge&logo=ghost&logoColor=cba6f7)]()
+[![](https://img.shields.io/badge/location-classified-1e1e2e?style=for-the-badge&logo=tor-project&logoColor=89b4fa)]()
+[![](https://img.shields.io/badge/status-online-1e1e2e?style=for-the-badge&logo=circle&logoColor=a6e3a1)]()
+[![](https://img.shields.io/badge/threat_level-curious-1e1e2e?style=for-the-badge&logo=hackthebox&logoColor=f38ba8)]()
 
 </div>
 
 ---
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-### `$ whoami`
-
-```python
-class BiwwDev:
-    name     = "Moch Abdie Firdaus Ridwan"
-    alias    = "BiwwDev"
-    location = "Indonesia 🇮🇩"
-    status   = "student • builder • breaker"
-    os       = "Arch Linux + Hyprland"
-    editor   = "Neovim (obviously)"
-    vibe     = ["minimal", "dark", "quiet", "terminal"]
-
-    def say_hi(self):
-        print("masih belajar, masih penasaran.")
-```
-
-<br/><br/><br/>
-
----
-
-### 🧠 `interests.txt`
-
-```
-▸ Python          ························  scripting, bots, AI/ML
-▸ Local AI        ························  Ollama, RAG, FastAPI
-▸ Linux & Ricing  ························  Arch, Hyprland, dotfiles
-▸ Security        ························  bug bounty, recon, breaking stuff
-▸ Trading Bot     ························  MQL5, MetaTrader 5 EA
-▸ Game Dev        ························  Roblox / Lua (iseng-iseng)
-```
-
----
-
-### 📺 `currently.log`
-
-```diff
-+ setup dotfiles dari nol (untuk kesekian kalinya)
-+ eksperimen local LLM pake Ollama
-+ belajar FastAPI buat backend AI
-+ nyoba-nyoba bug bounty hal kecil
-+ nulis EA di MetaTrader 5
-- tidur cukup
-- skill issue
-```
-
----
-
-### ⚙️ `stack.json`
-
-```json
-{
-  "editor"    : "neovim",
-  "shell"     : "zsh",
-  "terminal"  : "kitty",
-  "wm"        : "hyprland",
-  "os"        : "arch linux",
-  "theme"     : "catppuccin mocha",
-  "font"      : "JetBrains Mono"
-}
-```
-
----
-
-### 📊 stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=abdie-dev&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdie-dev&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" />
-
-<img width="420" src="https://streak-stats.demolab.com?user=abdie-dev&theme=tokyonight&hide_border=true&background=1e1e2e&ring=cba6f7&fire=89b4fa&currStreakLabel=cdd6f4&sideLabels=cdd6f4&dates=6c7086" />
-
-</div>
-
----
-
-### 🌐 `find_me.sh`
+<img align="right" width="380" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 ```bash
-#!/bin/bash
-echo "discord  →  BiwwDev"
-echo "github   →  github.com/abdie-dev"
-echo "location →  somewhere in Indonesia, probably in the terminal"
+╔══════════════════════════════════════════╗
+║           SYSTEM IDENTIFICATION          ║
+╠══════════════════════════════════════════╣
+║  handle   :  abdie-dev                   ║
+║  origin   :  [REDACTED], Indonesia       ║
+║  role     :  student / builder / breaker ║
+║  os       :  arch linux + hyprland       ║
+║  editor   :  neovim                      ║
+║  shell    :  zsh                         ║
+║  uptime   :  too long                    ║
+╠══════════════════════════════════════════╣
+║  > last seen : in the terminal           ║
+║  > motive   : just curious               ║
+╚══════════════════════════════════════════╝
+```
+
+<br/><br/>
+
+---
+
+### `> ls interests/`
+
+```
+.
+├── python/           # scripting, bots, automation
+├── local-ai/         # ollama, rag, fastapi — no cloud
+├── linux-ricing/     # arch, hyprland, dotfiles forever
+├── security/         # bug bounty, recon, breaking stuff
+├── trading-bot/      # mql5, metatrader5 ea
+└── game-dev/         # roblox / lua (occasionally)
+```
+
+---
+
+### `> cat activity.log`
+
+```diff
+@@  what i've been up to  @@
+
++ rebuilding dotfiles from scratch (again)
++ running local LLMs with ollama
++ learning fastapi for AI backends
++ poking around bug bounty programs
++ writing EAs for MetaTrader 5
+- sleeping at a normal time
+- touching grass
+- fixing skill issues
+```
+
+---
+
+### `> cat stack.conf`
+
+```ini
+[system]
+os       = arch linux
+wm       = hyprland
+theme    = catppuccin mocha
+
+[dev]
+editor   = neovim
+shell    = zsh
+terminal = kitty
+font     = JetBrains Mono
+
+[palette]
+base     = #1e1e2e
+mauve    = #cba6f7
+blue     = #89b4fa
+green    = #a6e3a1
+red      = #f38ba8
+overlay  = #6c7086
+```
+
+---
+
+### `> stats --user abdie-dev`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdie-dev&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&rank_icon=github&hide=contribs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdie-dev&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=cba6f7&text_color=cdd6f4&langs_count=6" />
+
+<br/>
+
+<img width="435" src="https://streak-stats.demolab.com?user=abdie-dev&hide_border=true&background=0d0d0d&ring=cba6f7&fire=f38ba8&currStreakLabel=cdd6f4&sideLabels=6c7086&dates=6c7086&stroke=1e1e2e" />
+
+</div>
+
+---
+
+### `> whois abdie-dev`
+
+```bash
+# no social media presence worth mentioning.
+# no linkedin. no twitter. just code.
+
+discord  →  [ you know where to find me ]
+github   →  github.com/abdie-dev
+pgp      →  ask nicely
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=abdie-dev&style=flat-square&color=6c7086&label=profile+views" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=abdie-dev&style=flat-square&color=1e1e2e&label=eyes+on+this+page" />
 
 <br/><br/>
 
 ```
-╔════════════════════════════════════╗
-║  "it works on my machine."  — me  ║
-╚════════════════════════════════════╝
+┌─────────────────────────────────────────────┐
+│                                             │
+│   "the quieter you become,                 │
+│    the more you are able to hear."         │
+│                                             │
+│                        — kali linux motto  │
+└─────────────────────────────────────────────╝
 ```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,50:1e1e2e,100:0d0d0d&height=120&section=footer&animation=fadeIn" />
 
 </div>
 ```
