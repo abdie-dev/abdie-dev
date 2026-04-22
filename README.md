@@ -123,7 +123,7 @@ if you can't figure it out, you don't need me.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=abdie-dev&style=flat&color=0d0d0d&label=_" />
+<img src="https://komarev.com/ghpvc/?username=abdie-dev&style=flat-square&color=313244&label=eyes" />
 
 <br/><br/>
 
