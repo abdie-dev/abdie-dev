@@ -1,178 +1,63 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=0x00&fontAlign=50&fontAlignY=32&color=0:000000,50:061111,100:00ff99&fontColor=00ff99&fontSize=42&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=3000&color=00FF99&center=true&vCenter=true&width=900&lines=Just+a+man+interested+in+code;Python+%2F+C%2B%2B+%2F+Artificial+Intelligence;Building+things+in+the+dark...;Learning+something+new+everyday..." />
-
-<br>
-
-<img src="https://img.shields.io/badge/status-online-00ff99?style=for-the-badge&logo=github&logoColor=black"/>
-<img src="https://img.shields.io/badge/focus-AI%20%26%20Systems-00ff99?style=for-the-badge&logo=openai&logoColor=black"/>
-<img src="https://img.shields.io/badge/vibe-terminal-00ff99?style=for-the-badge&logo=gnubash&logoColor=black"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ```> whoami```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=2000&color=00FF99&center=true&vCenter=true&width=700&lines=anonymous;python+developer;c%2B%2B+enjoyer;ai+learner;open+source+explorer"/>
-
-</div>
-
----
-
-<div align="center">
-
-```python
-class Anonymous:
-
-    def __init__(self):
-        self.name = "unknown"
-
-        self.languages = {
-            "Python",
-            "C++",
-            "JavaScript"
-        }
-
-        self.interests = [
-            "Artificial Intelligence",
-            "Low Level Programming",
-            "Automation",
-            "Open Source"
-        ]
-
-    def life(self):
-        while True:
-            self.learn()
-            self.build()
-            self.explore()
-
-if __name__ == "__main__":
-    me = Anonymous()
+```
+███████╗██╗  ██╗ █████╗ ██████╗  ██████╗ ██╗    ██╗███████╗██████╗ 
+██╔════╝██║  ██║██╔══██╗██╔══██╗██╔═══██╗██║    ██║██╔════╝██╔══██╗
+███████╗███████║███████║██║  ██║██║   ██║██║ █╗ ██║███████╗██║  ██║
+╚════██║██╔══██║██╔══██║██║  ██║██║   ██║██║███╗██║╚════██║██║  ██║
+███████║██║  ██║██║  ██║██████╔╝╚██████╔╝╚███╔███╔╝███████║██████╔╝
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚══╝╚══╝ ╚══════╝╚═════╝ 
 ```
 
-</div>
+<div align="center">
+
+### **OBSERVER | BUILDER | THINKER**
+
+*Silent coder exploring the depths of algorithms and artificial intelligence*
 
 ---
 
-<div align="center">
-
-## ```> stack```
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,linux,bash,git,vscode,pytorch,tensorflow,docker&theme=dark"/>
-
 </div>
 
----
+## 🎯 **MISSION**
 
-<div align="center">
+Writing code that matters. Solving problems elegantly. Pushing boundaries.
 
-## ```> contribution graph```
+## 🔬 **FOCUS AREAS**
 
-<br>
+| Area | Purpose |
+|------|---------|
+| **Python** | Universal tool for creation |
+| **C++** | Power and performance |
+| **Programming** | The art of logic |
+| **AI** | The future is here |
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdie-dev&bg_color=000000&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true"/>
+## 📊 **APPROACH**
 
-</div>
-
----
-
-<div align="center">
-
-## ```> trophies```
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=abdie-dev&theme=matrix&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ```> snake.exe```
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ```> terminal```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=%24+whoami;anonymous;%24+languages;Python+%7C+C%2B%2B+%7C+JavaScript;%24+interests;AI+%7C+Low+Level+%7C+Automation;%24+status;learning...;building...;repeating..."/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=abdie-dev&style=for-the-badge&color=00ff99"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,50:061111,100:00ff99"/>
-
-</div>
-
-</div>
-
----
-
-<div align="center">
-
-## ```> terminal```
-
-</div>
-
-<div align="center">
-
-```bash
-$ whoami
-anonymous
-
-$ interests
-Python
-C++
-AI
-Systems
-
-$ philosophy
-Code.
-Learn.
-Repeat.
+```
+Learn → Build → Deploy → Repeat
 ```
 
-</div>
+**Quality over quantity**  
+**Simplicity over complexity**  
+**Results over noise**
+
+---
+
+## 🌐 **WHAT YOU'LL FIND**
+
+- Code that's clean and purposeful
+- Projects that solve real problems
+- Experiments in AI and advanced systems
+- Minimal documentation, maximum impact
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=abdie-dev&style=for-the-badge&color=00ff99"/>
+### **No names. No faces. Just code.**
 
-</div>
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Systems-blue?style=flat-square)
 
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,50:061111,100:00ff99"/>
+*"The best security is invisibility; the best code speaks for itself."*
 
 </div>
