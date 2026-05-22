@@ -18,7 +18,11 @@
 
 ## ```> whoami```
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=2000&color=00FF99&center=true&vCenter=true&width=700&lines=anonymous;python+developer;c%2B%2B+enjoyer;ai+learner;open+source+explorer"/>
+
 </div>
+
+---
 
 <div align="center">
 
@@ -98,6 +102,34 @@ if __name__ == "__main__":
 <br>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ```> terminal```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=%24+whoami;anonymous;%24+languages;Python+%7C+C%2B%2B+%7C+JavaScript;%24+interests;AI+%7C+Low+Level+%7C+Automation;%24+status;learning...;building...;repeating..."/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=abdie-dev&style=for-the-badge&color=00ff99"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,50:061111,100:00ff99"/>
+
+</div>
 
 </div>
 
