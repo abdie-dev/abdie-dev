@@ -1,72 +1,104 @@
-# 0x00
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Just+a+man+who+loves+code;Python+%7C+C%2B%2B+%7C+AI;Learning...+Building...+Repeating..." alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Just+a+man+interested+in+code.;Python+%2F+C%2B%2B+%2F+AI;Learning+something+new+everyday..." />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0f0f,100:00f7ff&section=header"/>
+
+</div>
 
 ---
 
+<div align="center">
+
 ```python
-class Human:
+from life import Human
+
+class Anonymous(Human):
     def __init__(self):
-        self.name = "anonymous"
-        self.interests = [
+        self.alias = "0x00"
+        self.languages = [
             "Python",
             "C++",
+            "JavaScript"
+        ]
+        self.interests = [
             "AI",
-            "Programming",
+            "Low Level",
+            "Automation",
             "Open Source"
         ]
 
-    def life(self):
-        while True:
-            self.learn()
-            self.build()
-            self.repeat()
+    def __repr__(self):
+        return "Just a man who likes building things."
 
-me = Human()
+    while True:
+        learn()
+        build()
+        break_stuff()
+        fix_stuff()
+        sleep()
+
+me = Anonymous()
 ```
 
----
-
-## Tech
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,linux,git,vscode,tensorflow,pytorch" />
-</p>
+</div>
 
 ---
 
-## Activity
+# ⚡ Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdie-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
+<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdie-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,linux,git,vscode,pytorch,tensorflow,bash&theme=dark" />
 
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdie-dev&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
-</p>
+</div>
 
 ---
 
-## Snake Animation
+# 📊 Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdie-dev&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&text_color=AAAAAA&icon_color=00F7FF"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdie-dev&layout=compact&theme=transparent&hide_border=true&title_color=00F7FF&text_color=AAAAAA"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdie-dev&label=Visitors&color=0e75b6&style=flat" />
-</p>
+# 🌌 Activity
 
-<p align="center">
-  <b>Code. Learn. Repeat.</b>
-</p>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=abdie-dev&theme=transparent&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=abdie-dev&style=for-the-badge&color=0ff7ff"/>
+
+<br><br>
+
+```txt
+Code.
+Learn.
+Repeat.
+```
+
+</div>
