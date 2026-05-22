@@ -1,87 +1,69 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Just+a+man+interested+in+code.;Python+%2F+C%2B%2B+%2F+AI;Learning+something+new+everyday..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=8B0000&center=true&vCenter=true&width=800&lines=Just+a+man+interested+in+code;Python+%2F+C%2B%2B+%2F+AI;Silence...+Darkness...+Code..." />
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0f0f,100:00f7ff&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a0000&height=3"/>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
 ```python
-from life import Human
-
-class Anonymous(Human):
+class Unknown:
     def __init__(self):
-        self.alias = "0x00"
-        self.languages = [
+        self.name = "anonymous"
+
+        self.languages = {
             "Python",
             "C++",
             "JavaScript"
-        ]
-        self.interests = [
-            "AI",
-            "Low Level",
+        }
+
+        self.interests = (
+            "Artificial Intelligence",
+            "Low Level Programming",
             "Automation",
             "Open Source"
-        ]
+        )
 
-    def __repr__(self):
-        return "Just a man who likes building things."
+    def status(self):
+        return "alive"
 
-    while True:
-        learn()
-        build()
-        break_stuff()
-        fix_stuff()
-        sleep()
-
-me = Anonymous()
+while True:
+    code()
+    learn()
+    disappear()
 ```
 
 </div>
 
 ---
 
-# ⚡ Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,linux,git,vscode,pytorch,tensorflow,bash&theme=dark" />
+# ⚔ STACK
+
+<img src="https://skillicons.dev/icons?i=python,cpp,linux,bash,git,vscode,pytorch,tensorflow&theme=dark"/>
 
 </div>
 
 ---
 
-# 📊 Stats
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdie-dev&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&text_color=AAAAAA&icon_color=00F7FF"/>
+# 🌑 CONTRIBUTION
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdie-dev&layout=compact&theme=transparent&hide_border=true&title_color=00F7FF&text_color=AAAAAA"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdie-dev&bg_color=000000&color=8B0000&line=8B0000&point=550000&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🌌 Activity
-
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=abdie-dev&theme=transparent&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
+# 🐍 SNAKE
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
@@ -91,13 +73,13 @@ me = Anonymous()
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=abdie-dev&style=for-the-badge&color=0ff7ff"/>
+<img src="https://komarev.com/ghpvc/?username=abdie-dev&style=for-the-badge&color=8B0000"/>
 
 <br><br>
 
 ```txt
+Silence.
 Code.
-Learn.
 Repeat.
 ```
 
