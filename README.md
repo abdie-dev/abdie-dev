@@ -1,7 +1,7 @@
 <div align="center">
 
 # Abdie Firdaus Ridwan
-### building things badly, one bug at a time — and enjoying every second of it
+### student by day, running a small platform for my campus by night
 
 </div>
 
@@ -10,60 +10,52 @@
 ```python
 class Abdie:
     def __init__(self):
-        self.based_in  = "West Java, Indonesia"
-        self.role      = "Student Developer"
-        self.learning  = ["Python", "C++", "the basics of AI/ML"]
-        self.mindset   = "curious > correct"
-        self.debugging = "myself, mostly"
+        self.based_in = "Cianjur, West Java, Indonesia"
+        self.studying = "Universitas Suryakancana"
+        self.building = "Unsur Tulung — a service platform for students on campus"
+        self.stack    = ["Python", "C++", "JavaScript", "Tailwind", "Alpine.js"]
+        self.status   = "shipping > perfecting"
 
     def __repr__(self):
-        return "still compiling — check back later"
+        return "ask me about the WhatsApp order flow that runs my business"
 ```
 
 ---
 
-### the short version
+### what I'm actually building
 
-I didn't start programming because I was good at it — I started because I couldn't stop asking *why does this work like that?* Most of what lives in my repos right now is small, unfinished, occasionally embarrassing, and completely honest about where I actually am.
+**Unsur Tulung** is an odd-job and multi-service platform for students around campus — errands, pickup and delivery, print and binding, room cleaning, admin help, all ordered through WhatsApp. Two-tier pricing so students and locals pay differently. A small team runs it with me.
 
-I'm not chasing "impressive" yet. I'm chasing *understanding*. The impressive part can wait.
+The whole site is a single HTML file — Tailwind CSS and Alpine.js, no build step, no framework weight — with a live order form, a receipt-style preview, and a WhatsApp deep link that fires the order straight through. I built it because it needed to exist, not because an assignment told me to.
 
 ---
 
-### what I'm actually doing right now
+### the learning underneath it
 
 ```
-[x] learning Python well enough to stop guessing
-[ ] learning C++ well enough to stop fearing pointers
-[ ] understanding what AI/ML actually is, past the buzzwords
+[x] shipped something real before finishing the degree
+[ ] Python well enough to stop guessing
+[ ] C++ well enough to stop fearing pointers
+[ ] what AI/ML actually is, past the buzzwords
 [ ] reading other people's code without flinching
-[ ] shipping something small enough to actually finish
 ```
 
 ---
 
-### the toolkit so far
+### the toolkit
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,tailwind,git,github&theme=dark" />
 </div>
-
----
-
-### how I actually learn
-
-Not from courses I finish top to bottom. From breaking something at 1am, staring at a traceback like it personally wronged me, and slowly realizing the bug was never the compiler's fault.
-
-If you're the kind of person who finds that funny instead of embarrassing — we'll get along.
 
 ---
 
 ### find me here
 
-- 📫 **mochabdiefirdausridwan@gmail.com**
-- 🧠 currently thinking about: *Today is fully loaded for PKKMB UNSUR*
+- 📫 mochabdiefirdausridwan@gmail.com
+- 🧠 currently thinking about: growing Unsur Tulung past word-of-mouth without wrecking the pricing model that makes it fair
 
 <div align="center">
 <br>
-<sub>still learning · still curious · still here</sub>
+<sub>still learning · still building · still here</sub>
 </div>
