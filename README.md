@@ -30,15 +30,14 @@ The whole site is a single HTML file — Tailwind CSS and Alpine.js, no build st
 
 ---
 
-### the learning underneath it
+### what actually pulls my attention
 
-```
-[x] shipped something real before finishing the degree
-[ ] Python well enough to stop guessing
-[ ] C++ well enough to stop fearing pointers
-[ ] what AI/ML actually is, past the buzzwords
-[ ] reading other people's code without flinching
-```
+Not frameworks, not whatever's trending this month — the layer underneath them.
+
+- **Logic** — the part of computer science that doesn't change when the syntax does
+- **Systems fundamentals** — how a computer actually does what I tell it, not just how to make it compile
+- **Privacy** — Unsur Tulung holds real names, numbers, and addresses. That stopped being abstract fast.
+- **Cybersecurity** — assume everything I ship gets poked at, and build like that's already true
 
 ---
 
