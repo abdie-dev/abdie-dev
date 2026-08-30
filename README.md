@@ -1,7 +1,8 @@
 <div align="center">
 
 # Abdie Firdaus Ridwan
-### student by day, running a small platform for my campus by night
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&width=560&lines=logic+%3E+syntax;privacy+isn't+optional;assume+breach%2C+build+anyway;still+compiling+%E2%80%94+check+back+later" alt="typing animation" />
 
 </div>
 
@@ -46,6 +47,16 @@ Not frameworks, not whatever's trending this month — the layer underneath them
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,tailwind,git,github&theme=dark" />
 </div>
+
+---
+
+### proof I actually commit code
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+</div>
+
+> ⚠️ this one needs a one-time setup — the workflow file is below.
 
 ---
 
