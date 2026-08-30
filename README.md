@@ -60,9 +60,8 @@ If you're the kind of person who finds that funny instead of embarrassing — we
 
 ### find me here
 
-- 📫 **your-email@example.com**
-- 🔗 **linkedin.com/in/your-linkedin**
-- 🧠 currently thinking about: *[whatever you're actually curious about right now]*
+- 📫 **mochabdiefirdausridwan@gmail.com**
+- 🧠 currently thinking about: *Today is fully loaded for PKKMB UNSUR*
 
 <div align="center">
 <br>
