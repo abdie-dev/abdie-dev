@@ -50,13 +50,11 @@ Not frameworks, not whatever's trending this month — the layer underneath them
 
 ---
 
-### proof I actually commit code
+### commit activity
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/abdie-dev/abdie-dev/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdie-dev&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&radius=8" alt="commit activity graph" />
 </div>
-
-> ⚠️ this one needs a one-time setup — the workflow file is below.
 
 ---
 
