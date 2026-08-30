@@ -53,7 +53,7 @@ Not frameworks, not whatever's trending this month — the layer underneath them
 ### proof I actually commit code
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+<img src="https://raw.githubusercontent.com/abdie-dev/abdie-dev/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </div>
 
 > ⚠️ this one needs a one-time setup — the workflow file is below.
