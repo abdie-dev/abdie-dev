@@ -1,6 +1,6 @@
 <div align="center">
 
-# Abdie Firdaus Ridwan
+# Moch Abdie Firdaus Ridwan
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&width=560&lines=logic+%3E+syntax;privacy+isn't+optional;assume+breach%2C+build+anyway;still+compiling+%E2%80%94+check+back+later" alt="typing animation" />
 
