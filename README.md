@@ -54,7 +54,6 @@ Not frameworks, not whatever's trending this month — the layer underneath them
 
 <div align="center">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=abdie-dev&show_icons=true&hide_title=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&hide_border=true" alt="github stats" />
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=abdie-dev&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&hide_border=true" alt="streak stats" />
 </div>
 
 ---
